@@ -1,0 +1,10 @@
+# service-discovery-and-registration-sample
+
+## Project Introduction
+
+Service discovery and registration sample, using Nacos
+
+## Technology Involved
+
+- Spring
+- Nacos - Discovery center
