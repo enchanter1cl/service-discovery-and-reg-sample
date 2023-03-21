@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60500490-2dfd-4154-b8ec-8826fe67b81a" name="Changes" comment="init: init 2 web service">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-module1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-module1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-module1/src/main/java/com/erato/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-svc-module1/src/main/java/com/erato/registrationmodule1/WebSvcModule1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-svc-module1/src/main/java/com/erato/registrationmodule1/WebSvcModule1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-svc-module1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web-svc-module1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-svc-module1/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web-svc-module1/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-svc-module2/src/main/java/com/erato/registrationmodule2/WebSvcModule2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-svc-module2/src/main/java/com/erato/registrationmodule2/WebSvcModule2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-svc-module2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web-svc-module2/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Programs/apache/apache-maven/apache-maven-3.6.2" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Programs\apache\apache-maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LlJjybIzO1stRLHoTftj3fQa2R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/TempCode/JAVA/workspace_idea2/nacos-examples/nacos-spring-cloud-example/nacos-spring-cloud-discovery-example",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "0f17897d147f0d26145ca775d6eb8aac"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="WebSvcModule1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="web-svc-module1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.erato.registrationmodule1.WebSvcModule1Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erato.registrationmodule1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WebSvcModule1Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60500490-2dfd-4154-b8ec-8826fe67b81a" name="Changes" comment="" />
+      <created>1676439876228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676439876228</updated>
+      <workItem from="1676439878083" duration="440000" />
+      <workItem from="1677049098019" duration="550000" />
+      <workItem from="1677049718244" duration="408000" />
+      <workItem from="1677050211743" duration="1361000" />
+      <workItem from="1677162911875" duration="604000" />
+      <workItem from="1679386350386" duration="1700000" />
+    </task>
+    <task id="LOCAL-00001" summary="init: Init empty project">
+      <created>1677049927987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677049927987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init: add README.md">
+      <created>1677050756869</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677050756869</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init: init 2 web service">
+      <created>1677050952003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677050952003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="init: Init empty project" />
+    <MESSAGE value="init: add README.md" />
+    <MESSAGE value="init: init 2 web service" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: init 2 web service" />
+  </component>
+</project>
